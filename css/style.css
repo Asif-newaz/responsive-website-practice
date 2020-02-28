@@ -152,6 +152,10 @@ ul li a:hover{
         padding-right: 20px;
     }
 
+    .btn-2 {
+        display: none;
+    }
+
     .images-with-articles {
         flex-direction: column;
         padding-right: 20px;
