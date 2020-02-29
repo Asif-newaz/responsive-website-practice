@@ -148,8 +148,13 @@ ul li a:hover{
     }
 
     .some-articles {
+        flex-direction: column;
         padding-left: 20px;
         padding-right: 20px;
+    }
+
+    .some-articles-1, .some-articles-2 {
+        width: 100% !important;
     }
 
     .btn-2 {
@@ -164,6 +169,10 @@ ul li a:hover{
 
     .middle-images {
         flex-direction: column;
+    }
+
+    .middle-images-1 {
+        display: none;
     }
 
 }
