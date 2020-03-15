@@ -94,6 +94,7 @@ ul li a:hover{
 .images-with-articles{
     display: flex;
     margin-top: 10%;
+    margin-bottom: 50px;
 }
 
 .footer{
